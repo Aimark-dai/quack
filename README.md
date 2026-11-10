@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/duck.png" width="180" alt="对喷鸭">
+  <img src="docs/images/duck-vs.png" width="460" alt="对喷鸭：两只鸭子对喷">
 </p>
 
 <h1 align="center">对喷鸭 Quack</h1>
